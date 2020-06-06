@@ -1,0 +1,18 @@
+{
+    "PYRO_BOT_STARTED": "Pyrogram അടിസ്ഥാനമാക്കിയുള്ള PyrogramBot v{VERSION} [Layer {LAYER}] @{USERNAME} ആരംഭിച്ചു. ആശംസകൾ.",
+    "PYRO_BOT_STOPPED": "Pyrogram ബോട്ട് നിർത്തി. ഇപ്പോഴേക്ക് വിട.!",
+    "DOWNLOAD_START": "ഡൌൺലോഡ് ചെയാൻ ശ്രമിക്കുന്നു",
+    "FOUND_NUM_FILES": "{NUM_FILES} ഫയലുകൾ കണ്ടെത്തി",
+    "DOWNLOAD_TOOK_TIME": "ഡൗൺലോഡിന് {DOWNLOAD_TIME} സെക്കൻഡ് എടുത്തു",
+    "UPLOAD_START": "അപ്‌ലോഡുചെയ്യാൻ ശ്രമിക്കുന്നു",
+    "UPLOAD_TOOK_TIME": "അപ്‌ലോഡുചെയ്യാൻ 5 സെക്കൻഡ് എടുത്തു",
+    "YTDL_BTN_SELECTOR": "Select the desired format: 👇\n<u>mentioned</u> <i>file size might be approximate</i>",
+    "PROCESSING": "processing ...",
+    "INSTALLED_PLUGIN": "installed {LDED_COUNT} commands / plugins",
+    "INSTALLED_ERROR": "<b>error</b>: <code>{ERROR}</code>",
+    "ON_BTN_TOUCH_ED": "please wait, the message will be edited after a SHORT time",
+    "WELCOME_SAVED_TXT": "welcome message saved",
+    "WELCOME_TXT_EMPTY": "🤔 maybe welcome text is empty",
+    "WELCOME_CLEAR_TXT": "welcome message cleared from current chat.",
+    "MEDIA_NOT_FOUND": "404: media not found"
+}
